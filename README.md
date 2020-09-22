@@ -27,10 +27,14 @@ If you believe you have the motivation to learn and also guide young minds along
 ### Why be a part of Bitshift, when I can directly contribute to large organisations?
 As a young community we allow more room for ideas and brainstorming sessions with a talented lot of student developers who can understand your level and relate to your stuggle while guiding you into open source software development.
 
+### How will I benefit as a student?
+You might be a freshman, a sophomore, or a junior at college, and a guidance from your seniors who could relate with your problems and help you through it will be a great opportunity to learn and grow. 
+
+You will be working on possibly innovative projects, and also proposing your own projects which could possibly solve a relevant real-life problem. This way you'll develop critical thinking and analytical skills which are a great asset in builing an original product. 
+
+All the code you write will have full credit against your name, which can later prove to be a great addition to your experience. 
+
 ### How much of my time will I have to devote as a mentor?
 As a mentor you're responsibility shall include unblocking the students if they get stuck somewhere and ask for your help. You may do this by explaning the problem in simple terms with your experience, guiding them towards relevant material, or brainstorm the solution to their problem so that they may get to see a bigger picture. We estimate that this might not take more than 5-6 hours of your time per week at max, while on average it may take only 2-3 hours/week of your precious time.
-
-
-
 
 **Anything else on your mind?** Do let us know my mailing us [here](mailto:viveknigam.nigam3@gmail.com).
