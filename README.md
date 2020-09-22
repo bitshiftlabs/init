@@ -1,3 +1,7 @@
+<div align="center">
+    <img alt="Bitshift" src="https://user-images.githubusercontent.com/30192068/93916377-153b9680-fd27-11ea-815e-4d78c8307132.png" width=100% />
+</div>
+
 # init
 Welcome to Bitshift Open Community!  
 
