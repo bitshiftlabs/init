@@ -20,7 +20,7 @@ We follow a mentor-student topology with a focus on building projects that could
 
 ## Any questions?
 
-Here is a list of frequently asked questions (FAQs) about this initiative and their answers. If you feel there is something we left to address here, you may contact @viveknigam3003 for more details.
+Here is a list of frequently asked questions (FAQs) about this initiative and their answers. If you feel there is something we left to address here, you may contact [@viveknigam3003](https://github.com/viveknigam3003) for more details.
 
 ### How can I be a part of Bitshift as a student?
 Bitshift Open Community initiative as of now is an invitation based project. Soon we will be forming a robust onboarding process, which shall help us extend our mentorship to hundreds of other brilliant students.
