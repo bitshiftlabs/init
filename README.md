@@ -27,5 +27,10 @@ If you believe you have the motivation to learn and also guide young minds along
 ### Why be a part of Bitshift, when I can directly contribute to large organisations?
 As a young community we allow more room for ideas and brainstorming sessions with a talented lot of student developers who can understand your level and relate to your stuggle while guiding you into open source software development.
 
-**Anything else on your mind?** Do let us know my mailing us [here](mailto:viveknigam.nigam3@gmail.com).
+### How much of my time will I have to devote as a mentor?
+As a mentor you're responsibility shall include unblocking the students if they get stuck somewhere and ask for your help. You may do this by explaning the problem in simple terms with your experience, guiding them towards relevant material, or brainstorm the solution to their problem so that they may get to see a bigger picture. We estimate that this might not take more than 5-6 hours of your time per week at max, while on average it may take only 2-3 hours/week of your precious time.
 
+
+
+
+**Anything else on your mind?** Do let us know my mailing us [here](mailto:viveknigam.nigam3@gmail.com).
