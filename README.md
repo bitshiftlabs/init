@@ -33,11 +33,11 @@ If you believe you have the motivation to learn and also guide young minds along
 As a young community, we allow more room for new ideas through rigorous brainstorming sessions with a talented lot of student developers, who can understand your level and relate to your stuggle, besides guiding you through the various challenges along the way. 
 
 ### How will I benefit as a student?
-You might be a freshman, a sophomore, or a junior at college, and getting the right guidance from your seniors who could relate to your problems and help you through it, will be an amazing opportunity to learn and grow. 
+You might be a freshman, a sophomore, or a junior at college, and getting the right guidance from your seniors (developers with bit more knowledge and experience than you) will be an amazing opportunity to learn and grow. 
 
-You will be working on possibly innovative projects, and also proposing your own projects which could ultimately solve some relevant real-life problem. This way you'll develop critical thinking and analytical skills which are a great asset in builing an original product. 
+You will be working on different innovative projects, and also proposing your own projects which could ultimately solve some relevant real-life problem. This way you'll develop critical thinking and analytical skills which are a great asset in builing an original product. 
 
-All the code you write will have proper credit against your name, which can later turn out to be a great addition to your experience and resume :)
+Every single line of code written by you will have proper credit against your name, which can eventually turn out to be a great addition to your experience and resume :)
 
 ### How much of my time will I have to devote as a mentor?
 As a mentor, your responsibility shall include guiding the students and unblocking them if they happen to get stuck somewhere. You may do this by explaning the problem in simple terms, guiding them towards relevant material, or brainstorm the solution to their problem so that they may get to see a bigger picture. We estimate that this should take about 5-6 hours/week at max, while 2-3 hours/week on an average of your precious time.
