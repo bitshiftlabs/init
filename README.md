@@ -11,7 +11,7 @@ Bitshift Open Community aims to foster young developers who are entering the vas
 
 ## The origin
 
-Software Development is no exception to the famous saying: "The first step is always the hardest". All of us at some initial point of our development career have been intimidated to a level where we felt quite lost and overwhelmed. We thus had enough motivation to form an organisation which could guide young college students take that essential first step and ultimately break into the enormous world of software development!
+Software Development is no exception to the famous saying: "The first step is always the hardest". All of us at some initial point of our development career have been intimidated to a level where we felt quite lost and overwhelmed. We are thus aware of the starting phase struggles, and this very fact acted as a motivation for us to form an organisation which could guide young college students take that essential first step and ultimately break into the enormous world of software development!
 
 ## The ideology
 
@@ -37,9 +37,9 @@ You might be a freshman, a sophomore, or a junior at college, and getting the ri
 
 You will be working on possibly innovative projects, and also proposing your own projects which could ultimately solve some relevant real-life problem. This way you'll develop critical thinking and analytical skills which are a great asset in builing an original product. 
 
-All the code you write will have full credit against your name, which can later turn out to be a great addition to your experience and resume :)
+All the code you write will have proper credit against your name, which can later turn out to be a great addition to your experience and resume :)
 
 ### How much of my time will I have to devote as a mentor?
-As a mentor, your responsibility shall include guiding the students and unblocking them if they happen to get stuck somewhere. You may do this by explaning the problem in simple terms with your experience, guiding them towards relevant material, or brainstorm the solution to their problem so that they may get to see a bigger picture. We estimate that this should take 5-6 hours/week at max, while 2-3 hours/week on an average of your precious time.
+As a mentor, your responsibility shall include guiding the students and unblocking them if they happen to get stuck somewhere. You may do this by explaning the problem in simple terms, guiding them towards relevant material, or brainstorm the solution to their problem so that they may get to see a bigger picture. We estimate that this should take about 5-6 hours/week at max, while 2-3 hours/week on an average of your precious time.
 
 **Anything else on your mind?** Do let us know by mailing us [here](mailto:viveknigam.nigam3@gmail.com).
