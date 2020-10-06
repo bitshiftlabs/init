@@ -11,7 +11,7 @@ Bitshift Open Community aims to foster young developers who are entering the vas
 
 ## The origin
 
-Software Development is no exception to the famous saying: "The first step is always the hardest". All of us at some initial point of our development career have been intimidated to a level where we felt quite lost and overwhelmed. We are thus aware of the starting phase struggles, and this very fact acted as a motivation for us to form an organisation which could guide young college students take that essential first step and ultimately break into the enormous world of software development!
+Software Development is no exception to the famous saying: "The first step is always the hardest". All of us at some initial point of our development career have been intimidated to a level where we felt quite lost and overwhelmed. We are thus aware of the starting-phase struggles, and this very fact acted as a motivation for us to form an organisation which could guide young college students take that essential first step and ultimately break into the enormous world of software development!
 
 ## The ideology
 
@@ -24,13 +24,13 @@ At Bitshift Open Community, we follow a mentor-student topology with focus on bu
 Here is a list of some frequently asked questions (FAQs) and their answers, about this initiative and the underlying vision. If you feel there is something we failed to address, you may contact [@viveknigam3003](https://github.com/viveknigam3003) for more details.
 
 ### How can I be a part of Bitshift as a student?
-As of now, Bitshift Open Community is an invitation based project. We would soon be forming a robust onboarding process, which would help us extend our mentorship to hundreds of other brilliant students.
+As of now, Bitshift Open Community is an invitation based project. We would soon be forming a robust onboarding process, which would help us extend our domain to hundreds of other brilliant students.
 
 ### How can I be a part of Bitshift as a mentor?
 If you believe you have the motivation to learn and also guide young minds along the way, you may contact us [here](mailto:viveknigam.nigam3@gmail.com) with your motivation and your current skillset, and we shall find a fit student and project for you to mentor.
 
 ### Why be a part of Bitshift, when I can directly get involved with large organisations?
-As a young community we allow more room for ideas and brainstorming sessions with a talented lot of student developers who can understand your level and relate to your stuggle while guiding you into open source software development and beyond.
+As a young community, we allow more room for new ideas through rigorous brainstorming sessions with a talented lot of student developers, who can understand your level and relate to your stuggle, besides guiding you through the various challenges along the way. 
 
 ### How will I benefit as a student?
 You might be a freshman, a sophomore, or a junior at college, and getting the right guidance from your seniors who could relate to your problems and help you through it, will be an amazing opportunity to learn and grow. 
